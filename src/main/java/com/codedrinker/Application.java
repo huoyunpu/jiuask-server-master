@@ -26,4 +26,7 @@ public class Application {
     String index() {
         return "index";
     }
+
+
+
 }
